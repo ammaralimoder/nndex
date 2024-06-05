@@ -90,7 +90,7 @@ export DARK_MODE=false
 curl https://raw.githubusercontent.com/devolart/rclone-index/main/noroot.sh | bash
 ```
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devolart/rclone-index)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ammaralimoder/nndex)
 
 ### Scalingo
 [![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/devolart/rclone-index#main)
